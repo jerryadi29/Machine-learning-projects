@@ -1,2 +1,2 @@
-# Machine-learning_mini-projects
-_mini_projects
+# Machine-learning_-projects
+
